@@ -1,6 +1,6 @@
-go-lambda-netlify
+# go-lambda-netlify
 
-Demo source code for 12bit.vn article
+Demo source code for an article on 12bit.vn https://medium.com/12bit/gioi-thieu-go-lambda-functions-tren-netlify-89a1e7aab054
 
 ## Prerequisite
 
